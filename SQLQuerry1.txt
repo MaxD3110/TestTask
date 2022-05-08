@@ -1,0 +1,3 @@
+select product, category from product
+  left join ProductCategories on product.id_prod = ProductCategories.ProductId
+  left join category on ProductCategories.CategoryId = category.id_category
