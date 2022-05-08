@@ -1,8 +1,5 @@
-<br />
-<div align="center">
-  <h3 align="center">Тестовое задание</h3>
-</div>
 
+##Тестовое задание
 
 * SimpleSquare - Тестовая программа
 * Square - Библиотека
